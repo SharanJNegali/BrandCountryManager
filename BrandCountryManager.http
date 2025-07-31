@@ -1,0 +1,6 @@
+@BrandCountryManager_HostAddress = http://localhost:5078
+
+GET {{BrandCountryManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
