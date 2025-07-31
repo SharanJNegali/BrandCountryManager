@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrandCountryManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c578c56a7e757c985a36fe72e1acfbcb2ea1694c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a4e2cb06898483dce0e21c8734f9b213c1b2afa")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrandCountryManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrandCountryManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
